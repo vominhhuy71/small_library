@@ -1,0 +1,2 @@
+E:\C++\random_proj\Project2\Debug\Project2.exe
+E:\C++\random_proj\Project2\Debug\Project2.pdb
